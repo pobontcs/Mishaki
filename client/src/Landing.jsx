@@ -41,7 +41,7 @@ export default function Landing() {
                 backgroundColor: '#701705'
              }}>
                 <img 
-                    src="public/logo.png" 
+                    src="/logo.png" 
                     className="img-fluid" 
                     style={{
                         maxWidth: "200px",
@@ -96,7 +96,7 @@ export default function Landing() {
                     <div className='col-12 col-md-6 col-lg-5 d-flex justify-content-center'>
                         <img 
                             className='img-fluid rounded m-2 m-md-4 slide-up-title' 
-                            src='public/land.png' 
+                            src='/land.png' 
                             alt="Landing visual"
                             style={{maxWidth: "500px", width: "100%"}}
                         />
@@ -111,7 +111,7 @@ export default function Landing() {
                         <div className='d-flex flex-column flex-md-row justify-content-center align-items-center mt-3'>
                             <img 
                                 className='img-fluid mb-3 mb-md-5 me-md-3 slide-up-title' 
-                                src='public/pujo.png' 
+                                src='/pujo.png' 
                                 alt="Pujo special"
                                 style={{
                                     maxWidth: '270px',
@@ -124,7 +124,7 @@ export default function Landing() {
                             />
                             <img 
                                 className='img-fluid mt-0 mt-md-5 ms-md-3 slide-up-subtitle' 
-                                src='public/p2.png' 
+                                src='/p2.png' 
                                 alt="Second promotion"
                                 style={{
                                     maxWidth: '330px',
